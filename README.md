@@ -1,2 +1,1 @@
-# linux-training
-beginner to pro
+Linux Training
